@@ -5,3 +5,5 @@ Example.
 ## Revisie
 Example.
 
+## Visie
+Groots!
