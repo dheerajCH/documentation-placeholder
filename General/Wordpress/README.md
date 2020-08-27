@@ -1,4 +1,4 @@
-# ![Wordpress](assets/images/wordpress.png)
+# ![Wordpress](./assets/images/wordpress.png)
 
 ## Doel
 Example.
